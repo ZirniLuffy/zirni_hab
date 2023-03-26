@@ -1,5 +1,4 @@
--- Create a movable window with the title "zirni hub"
-local window = Instance.new("ScreenGui")
+Instance.new("ScreenGui")
 window.Name = "zirni hub"
 window.ResetOnSpawn = false
 window.Parent = game.CoreGui
