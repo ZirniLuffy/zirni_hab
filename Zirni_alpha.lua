@@ -1,6 +1,6 @@
 local window = Instance.new("ScreenGui")
 window.Name = "zirni hub"
-window.ResetOnSpawn = false
+window.ResetOnSpawn = true
 window.Parent = game.CoreGui
 
 local dragInput, dragStart, startPos
